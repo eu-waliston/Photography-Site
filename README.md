@@ -20,6 +20,6 @@ https://user-images.githubusercontent.com/82295321/142441328-6cf055ac-f505-43f9-
 
 <img src= "https://camo.githubusercontent.com/71b837571c48af3aa60a73dbc9d5936aa359d78efbfa8a6743cbbbc16b80ef4d/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f3830353930323039333930363630383138362f3830353931333937323533353539303932322f74656e6f722e676966"/>
 
-<p> Woul like to try ? Here the link: https://bkt-tonton.github.io/Photography-Site/ </p>
+<p> Would like to try ? Here the link: https://bkt-tonton.github.io/Photography-Site/ </p>
 
 ![giphy](https://user-images.githubusercontent.com/82295321/142442359-efc5245b-1983-4787-a068-24f78012fea5.gif)
